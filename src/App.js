@@ -7,7 +7,7 @@ function App() {
 				Hello world!
 			</h1>
 			<div>
-				<p>I am deploying to github</p>
+				<p>I am deploying and hosting my app to aws amplify</p>
 			</div>
 		</div>
 	);
